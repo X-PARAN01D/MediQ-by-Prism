@@ -1,0 +1,7 @@
+{
+  "name": "MediQ - AI Symptom Checker & Teleconsultation Queue",
+  "description": "Rural telemedicine platform with conversational AI chatbot triage, specialist doctor matching by proximity, priority queue management, video consults, and secure SQLite authentication.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
